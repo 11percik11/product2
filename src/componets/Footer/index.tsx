@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 export const Footer = () => {
   const dispatch = useDispatch();
-// цуцуцу44444
+// цуцуцу44444455555555
   useEffect(() => {
     const savedFilter = localStorage.getItem("filterValue");
     const savedPresence = localStorage.getItem("presenceValue");
